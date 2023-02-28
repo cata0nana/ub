@@ -10,7 +10,7 @@ echo "nameserver 8.8.4.4" >>  /etc/resolv.conf
 cd /root/SDA_ALL/
 git reset --hard
 git pull
-cd /root/SDA_ALL/main_oct0pus/
+cd /root/SDA_ALL/n_main_oct0pus/
 
 
 chmod +x *
